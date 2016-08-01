@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1469540790 source:c:\users\mstorost\testcpp\filechangerhex\main.cpp
+	<iostream>
+	<fstream>
+	"md5.h"
+
+1469535473 source:c:\users\mstorost\testcpp\filechangerhex\md5.cpp
+	"md5.h"
+	<cstdio>
+
+1469535413 c:\users\mstorost\testcpp\filechangerhex\md5.h
+	<cstring>
+	<iostream>
+

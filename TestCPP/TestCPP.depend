@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1469435746 source:c:\users\mstorost\testcpp\testcpp\file2.cpp
+	"file2.h"
+
+1469436014 source:c:\users\mstorost\testcpp\testcpp\main.cpp
+	<iostream>
+	"Person.h"
+
+1469435776 c:\users\mstorost\testcpp\testcpp\file2.h
+	<iostream>
+
+1469435953 c:\users\mstorost\testcpp\testcpp\person.h
+	<iostream>
+
+1469436142 source:c:\users\mstorost\testcpp\testcpp\person.cpp
+	"Person.h"
+
